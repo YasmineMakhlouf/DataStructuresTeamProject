@@ -1,4 +1,4 @@
-# DataStructuresTeamwork
+# DataStructuresTeamProject
 
 **CSIS216 Project — Array-Based Linked List Implementation**
 
