@@ -41,6 +41,12 @@ This project is a console-based C++ application that demonstrates a **singly lin
 
 ---
 
+Authors
+
+Yasmine Makhlouf
+Rim Jiblawi
+Jason Jamous
+
 ## How to Run
 
 1. Clone the repository:
@@ -49,8 +55,3 @@ This project is a console-based C++ application that demonstrates a **singly lin
 git clone https://github.com/USERNAME/DataStructuresTeamwork.git
 
 
-Authors
-
-Yasmine Makhlouf
-Rim Jiblawi
-Jason Jamous
